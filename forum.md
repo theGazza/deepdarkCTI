@@ -73,6 +73,7 @@
 |[MASTODON](https://masthead.social/auth/sign_in)| ONLINE | |
 |[MIPPED](https://mipped.com)| ONLINE | |
 |[MONEYDARK](https://moneymn.club)| OFFLINE | |
+|[NEW ERA OF INTELLIGENCE](http://relateoak2hkvdty6ldp7x67hys7pzaeax3hwhidbqkjzva3223jpxqd.onion/ ))| ONLINE | |
 |[NIFLHEIM.TOP](https://niflheim.top)| ONLINE | |
 |[NITTER](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion/)| |
 |[NOHIDESPACE](https://nohide.space)| ONLINE | |
